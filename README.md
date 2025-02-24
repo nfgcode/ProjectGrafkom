@@ -1,4 +1,3 @@
-# ProjectGrafkom
 <div>
     <h1><b>Tugas Grafika Komputer - E2425 Kelompok 4</b></h1>
 
