@@ -1,5 +1,6 @@
 # ProjectGrafkom
-Tugas Grafika Komputer - E2425 Kelompok 4
+<div>
+    <h1><b>Tugas Grafika Komputer - E2425 Kelompok 4</b></h1>
 
 ![Python](https://img.shields.io/badge/BahasaPemograman-python-blue?logo=python)
 
