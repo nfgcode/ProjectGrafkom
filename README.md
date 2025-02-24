@@ -1,5 +1,8 @@
 # ProjectGrafkom
 Tugas Grafika Komputer - E2425 Kelompok 4
+
+https://img.shields.io/badge/Bahasa%20Pemograman%20logo-grey?style=for-the-badge&logo=python
+
 <h2><b>Contributors:</b></h2>
     <a href="https://github.com/HanAjaa61"> <img src="https://avatars.githubusercontent.com/u/200595869?v=4" title="Muhammad Rayhan Saputra" width="80" height="80"></a>
     <a href="https://github.com/nfgcode"> <img src="https://avatars.githubusercontent.com/u/50001308?v=4" title="Nurfauzan Gymnastiar" width="80" height="80"></a>
